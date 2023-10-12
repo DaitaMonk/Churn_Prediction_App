@@ -14,9 +14,9 @@ Gradio is an open-source Python library that simplifies the process of creating 
 
 ## Summary
 
-| Code | Name                                |                                                                                               Published Article                                                                                                | Deployed App |
-| ---- | ----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------: |
-| LP3  | Store Sales Time Series Forecasting | [Article](https://medium.com/@chipmnkal/store-sales-time-series-forecasting-4c3bbc6eaca2) [Power BI] (https://app.powerbi.com/links/TFS5BUkmNP?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |              |
+| Code | Name                                                                               | Published Article | Deployed App |
+| ---- | ---------------------------------------------------------------------------------- | :---------------: | -----------: |
+| LP3  | Store Sales Time Series ForecastingAn Interactive Churn Prediction App with Gradio |                   |              |
 
 ## Author
 
