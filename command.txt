@@ -1,0 +1,3 @@
+python -m venv streamlit
+streamlitenv\Scripts\activate.bat
+python app.py
